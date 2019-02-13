@@ -1,0 +1,11 @@
+.nyc_output/
+browser/
+coverage/
+src/
+test/
+
+.babelrc
+.flowconfig
+.gitignore
+.npmignore
+gulpfile.babel.js

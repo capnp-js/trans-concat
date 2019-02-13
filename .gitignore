@@ -1,0 +1,5 @@
+.nyc_output/
+browser/
+coverage/
+lib/
+node_modules/
